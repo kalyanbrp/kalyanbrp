@@ -1,0 +1,1 @@
+select {{adding_two_integers(100,20)}}

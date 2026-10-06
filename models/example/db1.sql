@@ -1,0 +1,1 @@
+select current_database() cdb, current_schema() cs,current_user() cu,current_role() cr,current_warehouse() cw,current_date() cdate
